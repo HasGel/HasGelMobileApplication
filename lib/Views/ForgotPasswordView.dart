@@ -22,7 +22,7 @@ class _ForgotPasswordViewState extends State<ForgotPasswordView> {
     // Örneğin: FirebaseAuth.instance.sendPasswordResetEmail(email: email);
 
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Password reset link sentt to $email')),
+      SnackBar(content: Text('Password reset link sent to $email')),
     );
   }
 
