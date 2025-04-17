@@ -1,0 +1,1 @@
+ /Users/kayraakbas/Desktop/HasGelMobileApplication/.dart_tool/flutter_build/fc8ddb868b64ad700d0200c7b7d7930d/native_assets.json: 

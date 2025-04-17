@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391537771786",
+    "project_id": "has-gel-project",
+    "storage_bucket": "has-gel-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391537771786:android:2e7be133e999b524f426f3",
+        "android_client_info": {
+          "package_name": "com.example.prova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83N07mYcO7r9aTfSpuXrCDKi_SESvPMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
